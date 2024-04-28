@@ -12,7 +12,7 @@ Cada episodio, conciso y directo, te equipa con conocimientos esenciales sobre h
 |[S1:E1 - Bloqueos de Recursos](content/S1E1-Bloqueos-de-Recursos/episode_description.md)|▷ [Website](https://podcast.azurelandcast.com/2231589/13766574-s1-e1-bloqueos-de-recursos)|
 |[S1:E2 - Azure Security Defaults](content/S1E2-Azure-Security-Defaults/episode_description.md)|▷ [Website](https://podcast.azurelandcast.com/2231589/14298555-s1-e2-azure-security-defaults)|
 |[S1:E3 - Self-Service Password Reset (SSPR)](content/S1E3-Self-Service-Password-Reset/episode_description.md)|▷ [Website](https://podcast.azurelandcast.com/2231589/14393295-s1-e3-self-service-password-reset-sspr)|
-|[S1:E4 - Revisión Semanal](content/S1E4-Revision-Semanal/episode_description.md)|▷ [Website]()|
+|[S1:E4 - Revisión Semanal 2024W14](content/S1E4-Revision-Semanal/episode_description.md)|▷ [Website]()|
 
 ## Apoya a Azure Landcast
 

@@ -1,4 +1,4 @@
-# Azure LandCast - S1:E4 - Revisión Semanal   
+# Azure LandCast - S1:E4 - Revisión Semanal 2024W14
   
 ## Descripción  
 ¡Bienvenidos a un nuevo episodio de Azure LandCast! Hoy, vamos a iniciar una serie de episodios en los que hablamos sobre los anuncios publicados por Microsoft acerca de productos y servicios en la infraestructura de Azure, ya sean anuncios de nuevos recursos, actualizaciones, o la retirada de algunos productos o la funcionalidad de algún servicio.  

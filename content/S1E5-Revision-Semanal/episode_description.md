@@ -32,17 +32,17 @@ En tan solo 15 minutos, estarás completamente al día con las últimas actualiz
 #### [Nuevas actualizaciones para Azure Red Hat OpenShift (ARO) en abril de 2024](https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-april-2024-updates/) #GA #ARO
 
 ## Recursos Adicionales  
-[Azure Backup](https://learn.microsoft.com/en-us/azure/backup/backup-overview)
-[Azure Synapse](https://learn.microsoft.com/en-us/azure/synapse-analytics/overview-what-is)
-[Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/overview)
-[Azure Stream Analytics](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction)
-[Azure Load Testing](https://learn.microsoft.com/en-us/azure/load-testing/overview-what-is-azure-load-testing)
-[Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/introduction)
-[Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction)
-[Azure Database MySQL](https://learn.microsoft.com/en-us/azure/mysql/flexible-server/overview-single)
-[Azure Database PostgreSQL](https://learn.microsoft.com/en-us/azure/postgresql/flexible-server/service-overview)
-[Azure Managed Instance for Apache Cassandra](https://learn.microsoft.com/en-us/azure/managed-instance-apache-cassandra/create-cluster-portal)
-[Azure Key Vault](https://learn.microsoft.com/en-us/azure/key-vault/general/basic-concepts)
-[Azure Red Hat OpenShift](https://learn.microsoft.com/en-us/azure/openshift/intro-openshift)
+- [Azure Backup](https://learn.microsoft.com/en-us/azure/backup/backup-overview)
+- [Azure Synapse](https://learn.microsoft.com/en-us/azure/synapse-analytics/overview-what-is)
+- [Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/overview)
+- [Azure Stream Analytics](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction)
+- [Azure Load Testing](https://learn.microsoft.com/en-us/azure/load-testing/overview-what-is-azure-load-testing)
+- [Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/introduction)
+- [Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction)
+- [Azure Database MySQL](https://learn.microsoft.com/en-us/azure/mysql/flexible-server/overview-single)
+- [Azure Database PostgreSQL](https://learn.microsoft.com/en-us/azure/postgresql/flexible-server/service-overview)
+- [Azure Managed Instance for Apache Cassandra](https://learn.microsoft.com/en-us/azure/managed-instance-apache-cassandra/create-cluster-portal)
+- [Azure Key Vault](https://learn.microsoft.com/en-us/azure/key-vault/general/basic-concepts)
+- [Azure Red Hat OpenShift](https://learn.microsoft.com/en-us/azure/openshift/intro-openshift)
   
 Espero que disfrutes este episodio y encuentres valor en la información y los recursos compartidos. No dudes en dejarme tus comentarios y sugerencias para futuros temas. ¡Hasta el próximo episodio de Azure Landcast!

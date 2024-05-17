@@ -11,7 +11,7 @@ He recopilado todas las noticias de la semana del 15 al 21 de abril y vamos a ex
 - #### [Azure Site Recovery Update rollup 73](https://azure.microsoft.com/en-us/updates/generally-available-azure-site-recovery-update-rollup-73-april-2024/) #GA #AzureSiteRecovery
 - #### [Disponible el Editor de Consultas en Azure Monitor Metrics](https://azure.microsoft.com/en-us/updates/publicpreviewofqueryeditorinmetricexplorer/) #Preview #AzureMonitor 
 - ####  [Ya está Disponible la Encriptación en Azure VNet en Todas las Regiones](https://azure.microsoft.com/en-us/updates/general-availability-azure-virtual-network-encryption-availability-in-all-regions/) #GA #AzureVNet 
-- #### [Ya están disponibles las Nuevas Funcionalidades en Azure Machine Learning]([azure.microsoft.com](https://azure.microsoft.com/en-us/updates/azure-machine-learning-general-availability-for-april-2024/)) #GA #AzureML
+- #### [Ya están disponibles las Nuevas Funcionalidades en Azure Machine Learning](https://azure.microsoft.com/en-us/updates/azure-machine-learning-general-availability-for-april-2024/) #GA #AzureML
 - #### [Ahora las alertas de búsqueda de registros de Azure Monitor admiten identidades administradas](https://azure.microsoft.com/en-us/updates/ga-azure-monitor-log-search-alerts-support-managed-identities/) #GA #AzureMonitor 
 
 

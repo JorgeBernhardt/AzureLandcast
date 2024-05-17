@@ -3,7 +3,7 @@
 ## Descripción
 ¡Hola y bienvenidos a un nuevo episodio de Azure LandCast! Hoy, en solo unos pocos minutos, te pondrás al día con las últimas novedades de Azure de la última semana. Vamos a revisar los anuncios más recientes de Microsoft sobre productos y servicios en la infraestructura de Azure, incluyendo lanzamientos de nuevos recursos, actualizaciones importantes y, en algunos casos, la retirada de productos.
 
-He recopilado todas las noticias de la semana del 15 al 21 de abril y vamos a explorar cada una para entender cómo nos afectan y qué acciones podríamos hacer para adaptarnos ellas.
+He recopilado todas las noticias de la semana del 15 al 21 de abril y vamos a explorar cada una para entender cómo nos afecta y qué acciones podríamos hacer para adaptarnos a ellas.
 ## Puntos Clave
 
 - #### [Disponible la Propiedad LastOwnershipUpdateTime para Discos en Azure](https://azure.microsoft.com/en-us/updates/ga-new-property-for-diskslastownershipupdatetime/) #GA #AzureDisk

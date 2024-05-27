@@ -15,6 +15,7 @@ Cada episodio, conciso y directo, te equipa con conocimientos esenciales sobre h
 |[S1:E4 - Revisión Semanal 2024W14](content/S1E4-Revision-Semanal/episode_description.md)|▷ [Website](https://podcast.azurelandcast.com/2231589/14926976-s1-e4-revision-semanal-2024w14)|
 |[S1:E5 - Revisión Semanal 2024W15](content/S1E5-Revision-Semanal/episode_description.md)|▷ [Website](https://podcast.azurelandcast.com/2231589/15010588-s1-e5-revision-semanal-2024w15)|
 |[S1:E6 - Revisión Semanal 2024W16](content/S1E6-Revision-Semanal/episode_description.md)|▷ [Website](https://podcast.azurelandcast.com/2231589/15087326-s1-e6-revision-semanal-2024w16)|
+|[S1:E7 - Revisión Semanal 2024W17](content/S1E7-Revision-Semanal/episode_description.md)|▷ [Website]()|
 ## Apoya a Azure Landcast
 
 Si disfrutas Azure Landcast y encuentras valor en los episodios, considera apoyarme en [buymeacoffee](https://www.buymeacoffee.com/jorgebernhardt). Tu apoyo me ayuda a continuar produciendo contenido de calidad.

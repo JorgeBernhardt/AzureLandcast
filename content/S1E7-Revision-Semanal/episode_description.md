@@ -10,7 +10,7 @@ En solo 15 minutos, nos ponemos al día con las últimas novedades de Azure. A s
 
 - #### [Azure Site Recovery ahora ofrece soporte para discos compartidos](https://azure.microsoft.com/en-us/updates/public-preview-dr-for-shared-disks-azure-site-recovery/) #Preview #ASR #AzureSharedDisk
 - #### [Retiro del modelo de despliegue 'Cloud Services (classic)](https://azure.microsoft.com/en-us/updates/cloud-services-classic-retirement-announcement-apr2024/) #Retired 
-- #### [Retiro programado de servicios clásicos de red de Azure para agosto de 2024 ](https://azure.microsoft.com/en-us/updates/classic-networking-retirements-april2024/) #Retired 
+- #### [Retiro programado de servicios clásicos de red de Azure para agosto de 2024 ]() #Retired 
 - #### [Se Retiran los App Service Environment v1 y v2](https://azure.microsoft.com/en-us/updates/app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-3/) #Retired #AzueAppService
 - #### [Disponible la subida de Datos desde Azure Monitor Agent a Storage accounts y Event Hubs](https://azure.microsoft.com/en-us/updates/azure-monitor-agent-upload-to-storage-and-eventhubs-now-publicpreview/) #Preview #AzureMonitor #AzureStorage #AzureEventHubs
 - #### [Ya están disponibles la reglas de Administración de Seguridad en Azure Virtual Network Manager ](https://azure.microsoft.com/en-us/updates/azure-virtual-network-manager-security-admin-rule-generally-available-in-all-public-regions/) #GA #AzureVNet 

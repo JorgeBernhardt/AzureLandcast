@@ -8,13 +8,13 @@ En este episodio hablaremos sobre los anuncios realizados durante la semana del 
 ## Puntos Clave
 
 - #### [Azure Introduce la posibilidad de 'Redeploy' en Azure Dedicated Host](https://azure.microsoft.com/en-us/updates/public-preview-host-redeploy/) #Preview #AzureDedicatedHost
-- #### [Mejoras en la infraestructura de Azure Container Registry (ACR)](https://azure.microsoft.com/en-us/updates/infrastructure-and-quality-enhancements-for-azure-container-registry/) #GA#ACR 
+- #### [Mejoras en la infraestructura de Azure Container Registry (ACR)](https://azure.microsoft.com/en-us/updates/infrastructure-and-quality-enhancements-for-azure-container-registry/) #GA #ACR 
 - #### [Microsoft Lanza Azure Monitor Pipeline 'at Edge' para Mejorar la Gestión de Datos en Entornos Periféricos](https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-pipeline-at-edge/) #Preview #AzureMonitor 
 - #### [Azure Chaos Studio Ahora Soporta Etiquetas de Recursos]() #GA #AzureChaosStudio 
 - #### [Azure HDInsight ahora Disponible en México Central](https://azure.microsoft.com/en-us/updates/hdinsightmexicocentral/) #GA #AzureHDInsight 
 - #### [Lanzamiento de Azure IoT Edge v1.5 LTS con Soporte Extendido Hasta 2026](https://azure.microsoft.com/en-us/updates/azure-iot-edge-lts-release/) #GA #AzureIoTEdge
 - #### [Azure Lanza Gestión UDR en Virtual Network Manager](https://azure.microsoft.com/en-us/updates/azure-virtual-network-manager-userdefined-route-udr-management-now-in-public-preview/) #Preview #AzureVNet #AzureVirtualNetworkManager
-- #### [Azure Simplifica la Gobernanza con Activación Automática de Grupos de Administración](https://azure.microsoft.com/en-us/updates/azure-governance-update-management-group-update/)   #GA #AzureManagementGroups #AzurePolicy
+- #### [Azure Simplifica la Gobernanza con Activación Automática de Grupos de Administración](https://azure.microsoft.com/en-us/updates/azure-governance-update-management-group-update/) #GA #AzureManagementGroups #AzurePolicy
 - #### [Cambios en las notificaciones de Azure Autoscale](https://azure.microsoft.com/en-us/updates/action-needed-update-azure-autoscale-notifications-to-using-additional-email-addresses-for-notifications/) #GA #AzureMonitor 
 
 

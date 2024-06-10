@@ -1,7 +1,7 @@
 ![logo](img/Cover.png)
 # Azure Landcast
 
-Tu podcast de microformación para dominar la nube de Microsoft. En solo 15 minutos a la semana, te mantendres al día con las últimas noticias, lanzamientos y actualizaciones de Azure. 
+Tu podcast de microformación para dominar la nube de Microsoft. En solo 15 minutos a la semana, te mantendras informado sobre las últimas noticias, lanzamientos y actualizaciones de Azure. 
 Descubre herramientas y servicios clave, aprende consejos prácticos y domina la plataforma Azure. 
 Tanto si eres un profesional de TI experimentado como si estás dando tus primeros pasos en el mundo de la nube, Azure Landcast te ofrece información clara y concisa. ¡Suscríbete y no te pierdas ningún episodio!
 

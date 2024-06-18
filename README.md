@@ -17,6 +17,7 @@ Tanto si eres un profesional de TI experimentado como si estás dando tus primer
 |[S1:E6 - Revisión Semanal 2024W16](content/S1E6-Revision-Semanal/episode_description.md)|▷ [Website](https://podcast.azurelandcast.com/2231589/15087326-s1-e6-revision-semanal-2024w16)|
 |[S1:E7 - Revisión Semanal 2024W17](content/S1E7-Revision-Semanal/episode_description.md)|▷ [Website](https://podcast.azurelandcast.com/2231589/15149876-s1-e7-revision-semanal-2024w17)|
 |[S1:E8 - Revisión Semanal 2024W18](content/S1E8-Revision-Semanal/episode_description.md)|▷ [Website](https://podcast.azurelandcast.com/2231589/15192077-s1-e8-revision-semanal-2024w18)|
+|[S1:E9 - Revisión Semanal 2024W19](content/S1E9-Revision-Semanal/episode_description.md)|▷ [Website]()|
 ## Apoya a Azure Landcast
 
 Si disfrutas Azure Landcast y encuentras valor en los episodios, considera apoyarme en [buymeacoffee](https://www.buymeacoffee.com/jorgebernhardt). Tu apoyo me ayuda a continuar produciendo contenido de calidad.
